@@ -20,12 +20,12 @@ This project proposes a more efficient and user-friendly solution for scheduling
 
 ## 🛠 Technologies Used
 
-- **Java 21+**
+- **Java 21**
 - **Spring Boot**
-- **Spring Data JPA**
 - **Maven**
-- **Thymeleaf** (or React if frontend is added)
-- **MySQL / PostgreSQL**
+- **Thymeleaf**
+- **PostgreSQL**
+- **Lombok**
 
 ## 📁 Project Structure
 
